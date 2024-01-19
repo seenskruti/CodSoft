@@ -8,6 +8,7 @@ Task 1: Mobile App Signup Flow
 
 Task 2: E-Commerce Website
 
+![image](https://github.com/seenskruti/CodSoft/assets/149509817/fcbda230-8196-4a37-94ed-ef51031dddb3)
 
 
 Task 3: Restaurant Menu
